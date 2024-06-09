@@ -1,6 +1,2 @@
-## Magic
-```math
-\ce{$&#x5C;unicode[
-
-Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky. Hi My name is Jacky.]{x0000}$}
-```
+## Hello 
+Hello
